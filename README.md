@@ -14,28 +14,28 @@ Through **data-driven experimentation**, I developed a **robust, dynamic trading
 
 ## ⚡ Features & Strategy Development
 
-### 🔹 **1. Multiple Technical Indicators Integration**
+### **1. Multiple Technical Indicators Integration**
 - **MACD** - Used for trend direction and momentum.
 - **RSI** - To filter overbought/oversold market conditions.
 - **ADX** - To confirm trend strength and avoid false signals.
 - **OBV (On-Balance Volume)** - For Volume Analysis to validate signal strength with volume data.
 - **ATR (Average True Range)** - Used for **dynamic position sizing** and setting **stop-loss/take-profit levels**.
 
-### 🔹 **2. Multi-Candlestick Pattern Recognition**
+### **2. Multi-Candlestick Pattern Recognition**
 Recognised a wide variety of candlestick pattern besides basic Doji pattern like:-
 - **Gravestone Doji**
 - **Dragonfly Doji**
 - **Hammer & Inverted Hammer**
 for improved **signal generation**
 
-### 🔹 **3. Dynamic Optimization**
+### **3. Dynamic Optimization**
 - **Adaptive thresholds** to account for market volatility.
 - **ATR-based position sizing** for risk-adjusted trade allocation.
 
-### 🔹 **4. Risk Management Enhancements**
+### **4. Risk Management Enhancements**
 Implemented **dynamic stop-loss** and **take-proifit levels** using **ATR-based trailing stop-loss**, effectively reducing drawdowns and locking in profits.
 
-### 🔹 **5. Innovative Bucket Strategy**
+### **5. Innovative Bucket Strategy**
 Devised a structured 4-bucket approach to optimize each component of the trading process:
 1. **Bucket 1: Signal Refinement** - Used volume confirmation, multiple candlestick recognition & multi-timeframe analysis.
 2. **Bucket 2: Risk Management** - Experimented with different stop-loss/take-profit levels, concluding that ATR-based trailing stop-loss worked best.
