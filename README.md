@@ -10,7 +10,7 @@ Through **data-driven experimentation**, I developed a **robust, dynamic trading
 - **Adaptive thresholds**
 - **Advanced risk management techniques**  
 
-**Note:** Detailed Project Report consisting of entire methodollogy and research is uploaded in the Repository.
+**Note:** Detailed Project Report consisting of entire methodollogy and research along with correponding source codes is uploaded in the Repository.
 
 ## ⚡ Features & Strategy Development
 
