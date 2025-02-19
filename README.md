@@ -1,4 +1,4 @@
-# 📈 Algorithmic Trading Strategy - Doji Pattern & Bollinger Bands with Advanced Optimizations
+# 📈 Algorithmic Trading Strategy Project - Doji Pattern & Bollinger Bands with Advanced Optimizations
 
 ## 🔍 Overview
 This project is a deep dive into **algorithmic trading**, focusing on backtesting and optimizing **Doji-based trading strategies** using multiple **technical indicators**. The strategy was iteratively refined through systematic testing to improve profitability and minimize risks.
